@@ -15,16 +15,25 @@ This Sentiment Analysis Project uses Machine Learning and Natural Language Proce
 
 #   Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 NLTK
+
 Matplotlib
+
 Seaborn
+
 Streamlit
 
 
+
 # Project Structure
+
 
 Sentiment-Analysis-Project/
 │
